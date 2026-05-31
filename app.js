@@ -208,7 +208,7 @@ revealSections();
 }*/
 
 window.formbutton=window.formbutton||function(){(formbutton.q=formbutton.q||[]).push(arguments)};
-  /* customize formbutton below*/     
+/* customize formbutton below*/     
 formbutton("create", {
   action: "https://formspree.io/f/xgoqbaww",
   title: "How can we help?",
